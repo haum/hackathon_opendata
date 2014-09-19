@@ -1,0 +1,17 @@
+<!--
+This is an example Overpass query.
+Try it out by pressing the Run button above!
+You can find more examples with the Load tool.
+-->
+<query type="relation">
+  <has-kv k="network" v="TIS"/>
+  <bbox-query s="47.98785367224138" w="0.28281211853027344" n="48.0356261672242" e="0.34641265869140625"/><!--this is auto-completed with the
+                   current map view coordinates.-->
+</query>
+<!-- added by auto repair -->
+<union>
+  <item/>
+  <recurse type="down"/>
+</union>
+<!-- end of auto repair -->
+<print/>
