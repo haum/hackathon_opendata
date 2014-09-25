@@ -1,0 +1,7399 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     0.189753081781734,
+     48.0756275599547
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NEUVILLE SUR SARTHE - Place de l'Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.223339400085468,
+     48.0742146545045
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NEUVILLE SUR SARTHE - La Trugalle  Rte de Lac\u00f4ne",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.197409199614586,
+     48.077289902291
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NEUVILLE SUR SARTHE - Abribus Les Sillons",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.193151638864665,
+     48.0180478878963
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "JOUE EN CHARNIE - Station Service",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.162236103250756,
+     47.9649851685544
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALLONNES - Kennedy (Setram)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.576398178141337,
+     47.7336679840864
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA CHARTRE SUR LE LOIR - Salle des f\u00eates",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.133639893573941,
+     47.9875053929711
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PRUILLE LE CHETIF - RD 50 - Les Maisons Rouges (embt)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.489826874126417,
+     47.8266478888373
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST VINCENT DU LOROUER - Monument Aux Morts",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.314410494421234,
+     47.9042783398775
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BRETTE LES PINS - RD 144 - Abribus Le Charbonneau",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0693346019305414,
+     48.1101937543801
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TENNIE - RD 38 - Lotis. N.Dame du Fresne",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.111556532029206,
+     48.0271222918705
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TRANGE - Bourg Abribus TIS TSQ",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0793789212873351,
+     48.0208794909109
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LONGNES - La Route",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0705490151739974,
+     48.00839256741
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FAY - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.196942248488501,
+     47.854070536408
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST GERVAIS EN BELIN - RD 307 - Abribus les Ardriers",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.115437051971424,
+     48.0781656572959
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "AIGNE - RD 304 / VO - Abribus Maqu\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.294664882709851,
+     48.0766975154601
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SAVIGNE L EVEQUE - Tennis",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.263684614480336,
+     47.9436618840661
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "RUAUDIN - Place Marcel Letang",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.252751353771186,
+     47.7926929380131
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LOUAILLES - Place de l'Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.158770468667695,
+     48.0884556079163
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA BAZOGE - RD 148 A - l'Arche C\u00f4te Guigniers",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.444404499860154,
+     48.0073362475612
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ARDENAY SUR MERIZE - Les Malgrasses",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.248409596872666,
+     47.8807293930928
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LAIGNE EN BELIN - La Croix Trois Bras",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.414952406238777,
+     47.6835727700826
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHATEAU DU LOIR - Gare SNCF",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.117774111330655,
+     47.7875674129922
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ARTHEZE - Mairie (Rue de La Cure)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.201629560643209,
+     48.0236970358964
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COULAINES - arr\u00eat Setram \"Les Sables\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0298050118455465,
+     48.3179123774411
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOUGE LE GANELON - Place Placitre",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.328173898568306,
+     48.0446712273024
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FATINES - La Pointe",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.460029977678118,
+     47.9747107089817
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SURFONDS - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.558118803607881,
+     47.7446844027078
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LHOMME - Pot de Pierre",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.330644326076605,
+     47.9160004639868
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BRETTE LES PINS - L.P. Agricole A.Provots",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.128432198428166,
+     48.2261282537742
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BEAUMONT SUR SARTHE - Place Dufour",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.429404036733736,
+     48.2261234209049
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ROUPERROUX LE COQUET - Eglise",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.271966782531533,
+     47.9673902439946
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - Bois Martin",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.168093944664796,
+     47.9841109376181
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MAREIL EN CHAMPAGNE - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.152975024561667,
+     47.8191987754032
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "YVRE LE POLIN - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.219038768396795,
+     48.1090037831624
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "JOUE L ABBE - Ecole",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.546782476541632,
+     48.0791076476246
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "DUNEAU - RD 29 - La Paillasse",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.377262544797481,
+     47.9315150747415
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARIGNE L EVEQUE - RD 90 - Le Vigneau",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.586249530515087,
+     48.0699164841654
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE LUART - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.696913006868155,
+     47.9344851039449
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONTAILLE - l'Esp\u00e9rance",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0280518570382962,
+     48.1048425352457
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "DOMFRONT EN CHAMPAGNE - Parking Entr\u00e9e Ecole",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.475482634625789,
+     47.9015941292089
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VILLAINES SOUS LUCE - Le Petit Pierrrelez",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0859699955963955,
+     47.813176695514
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MALICORNE SUR SARTHE - Rue Hoche (Ecole Sainte Th\u00e9r\u00e8se)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.174093868291775,
+     47.9794131905306
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Lefaucheux\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0900013749768104,
+     47.708082621416
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA FLECHE - Bouchevereau (Cit\u00e9 Scolaire)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.198068962001339,
+     47.8355515288182
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARCE SUR SARTHE - Les Graies",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.30329689219743,
+     47.8503543331022
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOLESMES - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.367664484306651,
+     48.1458259168004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BEAUFAY - Stade Municipal TIS TSQ",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.284010876270714,
+     47.98501872662
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - Maison de Retraite",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.204900151885708,
+     47.8330069839766
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST OUEN EN BELIN - RD 32b - la Fouquellerie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0519314474364365,
+     48.3752953552872
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BERUS - Place de l'Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.135404276885871,
+     47.7489681231432
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MANSIGNE - Rue du Ripot",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.210914100541138,
+     47.9834133353029
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Place Adrien Tironneau Pontlieue",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.192678056653432,
+     47.9959762009395
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Gares\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.00902201063880266,
+     48.0199409610674
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COULANS SUR GEE - Nationale",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.197406018669128,
+     48.0068698266975
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Mairie\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0234582242977367,
+     48.1227846125562
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CONLIE - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.067230712253196,
+     48.0406124748905
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "DEGRE - VO / RD 28 - Car.de la Poulerie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.23420734075812,
+     47.9685791371277
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BRULON - Gare (Bd de la)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0837405565399717,
+     47.9609859436584
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ETIVAL LES LE MANS - La Ferri\u00e8re",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.204808725871371,
+     47.9716082945331
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Maroc\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.308717405490694,
+     48.1861339024412
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MEZIERE SUR PONTHOUIN - L'Ange Marie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.240002950166557,
+     48.0974274951478
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "JOUE L ABBE - La Croix Lev\u00e9e",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.425821175849167,
+     48.1823003719454
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BONNETABLE - Place Charles de Gaulle",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0386096383868838,
+     48.0586833918046
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA QUINTE - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.246722459705389,
+     48.171935687357
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST MARS SOUS BALLON - Ecole",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.371569095102425,
+     48.0289473903126
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST MARS LA BRIERE - Place de la Libert\u00e9",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.260773821616266,
+     47.9488206573121
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "RUAUDIN - La Croix Martin",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.426947123829414,
+     48.1865908267604
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BONNETABLE - Coll\u00e8ge la Foresterie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.209170179473701,
+     48.0016842788239
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Flore\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0760462176342723,
+     48.0250936189335
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHAUFOUR NOTRE DAME - Abribus Le Ch\u00eane Vert TIS TSQ",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.105548106249836,
+     47.7186095711385
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA FLECHE - Verron",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.273835149759885,
+     47.8133799120959
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VION - La Chapelle du Ch\u00eane",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0982285857963777,
+     48.0224850321929
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TRANGE - Maisons Rouges",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.114608814433895,
+     48.0274665033789
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TRANGE - Mairie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0889982519282014,
+     47.814287973542
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MALICORNE SUR SARTHE - Le Moulin",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.421632752318343,
+     48.1724484133438
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BONNETABLE - Gare",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0743518305428994,
+     48.0252841171726
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHAUFOUR NOTRE DAME - Mairie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.388517949309382,
+     48.2745789670466
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONCE EN SAOSNOIS - Mairie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.056855962247332,
+     48.0409009935734
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "AMNE - Mairie rue du Milon",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0814460337422631,
+     48.1083799518633
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TENNIE - Maison de Retraite",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0109786443102779,
+     47.9734155654328
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOULIGNE FLACE - Place Montesson",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.469964955724323,
+     47.8649094408361
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE GRAND LUCE - Place de la R\u00e9publique",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0765781107391034,
+     48.1077504640216
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TENNIE - Eglise",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0260593357249889,
+     48.3736854334688
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MOULINS LE CARBONNEL - Coll\u00e8ge TIS",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.261290017207153,
+     47.8963391280364
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TELOCHE - RD 140 - La Croix au Metz",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.31067146896415,
+     47.9865880257969
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - La Belle Fresne",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.279364830858475,
+     47.8246181980094
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ECOMMOY - Parking Coll\u00e8ge Alfred de Musset",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.176523592049904,
+     48.1206857839223
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOUILLE - La Lande",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0818326409012967,
+     47.8130927868605
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MALICORNE SUR SARTHE - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.396673299585809,
+     47.9332166359836
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARIGNE L EVEQUE - RD 90 - Abribus Les Boutini\u00e8res",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0629299953114596,
+     48.0771991965247
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LAVARDIN - Place Tuc\u00e9",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.339695394878911,
+     47.8178388602725
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MARIGNE LAILLE - Salle des F\u00eates",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.126979205891356,
+     48.159904902861
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST JEAN D ASSE - La Croix Valienne",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.336739909187036,
+     48.0186761749724
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHAMPAGNE - Le Faisan Dor\u00e9",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.426450107613566,
+     48.1752351185822
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BONNETABLE - Mairie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.105689091600453,
+     47.9750407311049
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST GEORGES DU BOIS - Route du Mans",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.405058506831618,
+     48.0478929034756
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONTFORT LE GESNOIS - Haras",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0160319023911262,
+     48.3553377954649
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "GESNES LE GANDELIN - Poste",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.106029592562951,
+     48.0190412558317
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHASSILLE - RD 21- Abribus La Groie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.166949789762069,
+     47.9558837720542
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALLONNES - Lyc\u00e9e Andr\u00e9 Malraux",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.148896619998426,
+     47.9952145782397
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LOUE - Place A. Etiembre",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0940643072765764,
+     48.3229323034858
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FYE - RD 338 - Abribus La Route",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.206776734527285,
+     47.9900672955926
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - station tramway \"Pavillon\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.204827357183685,
+     48.0029845498767
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Erpell\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.202404980202656,
+     48.0693514690852
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NEUVILLE SUR SARTHE - VO - La Touche",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.472300463184134,
+     47.9088016991278
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VILLAINES SOUS LUCE - Croix de Pois",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.34229110248455,
+     48.0670039292287
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST CORNEILLE - Abribus Grande Rue",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.121236036373225,
+     48.0356515109774
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TRANGE - Rome",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.15973688232891,
+     47.9689746711471
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALLONNES - arr\u00eat Setram \"Kennedy\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0532044954914836,
+     48.0730112428545
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CURES - Les Rues",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.750176767748942,
+     47.8332331587673
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BESSE SUR BRAYE - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.286879473340384,
+     48.0115252179316
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "YVRE L EVEQUE - Le Polucan",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.223986762415518,
+     47.9795991892536
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat Setram Les Deux Ormeaux",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.262800177601549,
+     47.9694026570887
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - RD 304 - Les Petits Galets",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.430148889262299,
+     48.1233976905713
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST CELERIN - Biblioth\u00e8que",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.798997505011505,
+     48.0991556006629
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MELLERAY - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.204518711424527,
+     48.0240834033794
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COULAINES - arr\u00eat Setram \"Eglise\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0698972734768347,
+     47.6973496223125
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA FLECHE - Gare Routi\u00e8re TIS",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.162096555072727,
+     48.0146442345276
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Station Tramway \"Hautes Venelle\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.199478010799062,
+     48.0070851866079
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Mendes France\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.214579865085659,
+     48.0160608613972
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat Setram Les Maillets",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0514669731211794,
+     47.9378762078788
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MAIGNE - Ecole Publique",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.187526999237767,
+     47.9334263416252
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ARNAGE - arr\u00eat Setram \"Le Port\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.517292738162644,
+     48.1146078745866
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TUFFE - Place de l'Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.198897169310979,
+     48.0081474151132
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Jet d'eau",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.587685091626178,
+     48.1722044108238
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST AUBIN DES COUDRAIS - Abribus Place de l'Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.118292126465986,
+     48.0706597652352
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "AIGNE - Abribus Stade",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.486985522600865,
+     48.0707809502047
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BEILLE - Marc\u00e9",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0710357037134649,
+     47.7080941312692
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA FLECHE - Coll\u00e8ge Petit Versailles",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.317208203978649,
+     47.8343817826713
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SABLE SUR SARTHE - Nicolay",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.102212920369538,
+     47.8619401604644
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NOYEN SUR SARTHE - Abribus Stade",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.108745385005348,
+     48.0384239729848
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TRANGE - Les Nantries",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.100179109507174,
+     48.4340216127076
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALENCON - Gare SNCF",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0780525536470689,
+     48.0044318316425
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FAY - La Fouli\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.225837952454516,
+     48.0967978133458
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "JOUE L ABBE - Le Bas Gadois",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.408345833776909,
+     48.1730117442505
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BRIOSNE LES SABLES - RD 83 - Embt Impasse du Tertre",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.016597257815257,
+     47.9290422474304
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHEMIRE LE GAUDIN - Bourg Abribus TIS TSQ",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.402798571066706,
+     47.9004513225041
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARIGNE L EVEQUE - RD 304 - La Chapelle St Maurice",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0446766260808546,
+     47.943912882952
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LOUPLANDE - Le Presbyt\u00e8re",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0681540754212301,
+     47.8937766813358
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ROEZE SUR SARTHE - Abribus Place de l'Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.60298162831618,
+     48.1349775384528
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VILLAINES LA GONAIS - Ancienne Ecole",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.241498257943906,
+     48.0276854258101
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SARGE LES LE MANS - arr\u00eat Setram \"Calvaire\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.131470383931018,
+     48.1493949953982
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST JEAN D ASSE - RD 38 - La Route  - Arr\u00eat TIS",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.337449928672649,
+     48.1093116715931
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SILLE LE PHILIPPE - Chanteloup",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0865785878061478,
+     47.9574414116016
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ETIVAL LES LE MANS - Place Albertine Leffray Abribus",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.190977233182452,
+     47.9965822525984
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat Setram Gare - Paul Ligneul",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.155404810181203,
+     47.7978747546278
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "REQUEIL - VO - La Bossifi\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.161751851640403,
+     48.0202183334885
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Clinique du Pr\u00e9 - Setram Degr\u00e9",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.111962288363607,
+     47.9901978348763
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PRUILLE LE CHETIF - Cit\u00e9",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.343262623663112,
+     47.9595580086754
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARIGNE L EVEQUE - RD 184 -  Abribus des Vernelles",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.351568768772198,
+     48.1733935936358
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COURCEMONT - Salle polyvalente",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.347836742418505,
+     48.0468903809807
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FATINES - Abribus Cit\u00e9  des Pommiers",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0694066597459059,
+     47.9625872668513
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VALLON SUR GEE - Place March\u00e9 aux Boeufs",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.471475013217318,
+     47.8665834260491
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE GRAND LUCE - Coll\u00e8ge P. Chevallier",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.319168749680578,
+     47.765408693628
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PRECIGNE - Place des Rigourdaines",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.484293290873149,
+     47.9284131411643
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST MARS DE LOCQUENAY - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.198511514968141,
+     47.8677387767175
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST GERVAIS EN BELIN - La Croix Fromenteau",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0893061457351766,
+     48.4108746570997
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALENCON - L. M. de Navarre Piscine JJ Rouss",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.197279962127528,
+     48.0045695382843
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"De Gaulle\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0336856061901243,
+     48.341433646551
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "GESNES LE GANDELIN - Grand Champ",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.207996257818767,
+     48.0545784343051
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST PAVACE - Les Blini\u00e8res",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.291290609127409,
+     48.0718406201022
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SAVIGNE L EVEQUE - Plaisance",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.336014794337342,
+     47.8407033089043
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SABLE SUR SARTHE - Ab. Pl. du Champ de Foire",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.396959679762178,
+     48.306812544303
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST REMY DES MONTS - Mairie (rte de St Vincent)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.475737300383934,
+     48.0095212174024
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE BREIL SUR MERIZE - Tisserands",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.127557506862432,
+     48.1798171025737
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST MARCEAU - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.162580742688615,
+     47.9645096700667
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALLONNES - Coll\u00e8ge John Kennedy",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.158722313343922,
+     47.9735380985695
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALLONNES - arr\u00eat Setram \"Raterie\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.415346916833607,
+     48.048129028928
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONTFORT LE GESNOIS - Honor\u00e9 Broutelle",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.353294416566255,
+     47.9527492499239
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARIGNE L EVEQUE - RD 145 - Centre Gallou\u00ebdec",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.47793964300596,
+     48.0050732141955
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE BREIL SUR MERIZE - Bassin",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.339877226037519,
+     47.9615587760173
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARIGNE L EVEQUE - RD 184 - Chemin du Petit Pressoir",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.455310038523923,
+     48.2735369818011
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST COSME EN VAIRAIS - Point du Jour",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.212098259603451,
+     48.0766436229978
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NEUVILLE SUR SARTHE - RD 197 - Saint Antoine (embt)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.10277279874327,
+     48.285966832741
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST GERMAIN SUR SARTHE - Les Tilleuls",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.569486964420684,
+     48.0189832978221
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST MICHEL DE CHAVAIGNES - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.434541239196556,
+     48.0531079091247
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONTFORT LE GESNOIS - RD 119 - Abribus Petite Folie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.228047214815603,
+     47.8779067835057
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LAIGNE EN BELIN - Place de la Chantrerie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.168244907156781,
+     47.9910824219033
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Coll\u00e8ge du Vieux Colombier",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.152267297919858,
+     48.1043030593351
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA BAZOGE - Beaumanoir - Bel Air (N\u00b0 111)",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.196804724189372,
+     48.0002188630042
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Gare routi\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.214300314308971,
+     47.8770190186552
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST GERVAIS EN BELIN - Gare (LPP Les Horizons)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.202781529709211,
+     48.0285800283765
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COULAINES - Coll\u00e8ge Jean Cocteau",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0903307638717329,
+     48.3597696741017
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BETHON - RD 338 - Abribus",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.417589607202094,
+     48.0792007031917
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LOMBRON - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.357393429347275,
+     48.3497678903013
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MAMERS - Cit\u00e9 Scolaire",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.200618778000227,
+     48.0090652235568
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Jacobins - Triger\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.344833526257916,
+     48.1093201642835
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SILLE LE PHILIPPE - La Croix du Chaple",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0254706023701867,
+     47.891998521935
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA SUZE SUR SARTHE - Gare SNCF",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.153465340732036,
+     47.9836706284931
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - La Croix Georgette",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.271368573228875,
+     48.0601922066298
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SAVIGNE L EVEQUE - Courdoux",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.190799726551782,
+     48.0759360927349
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NEUVILLE SUR SARTHE - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.181388201041341,
+     48.0256594028477
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Galli\u00e8re",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.744830992780571,
+     47.8563907134096
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA CHAPELLE HUON - Bourg Abribus TIS TSQ",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0870349092733044,
+     48.4322378445722
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALENCON - Autogare",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.352203451964008,
+     48.1080093967803
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SILLE LE PHILIPPE - Eglise",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.359218895328448,
+     48.3609032779622
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MAMERS - Hopital",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.414566908165216,
+     47.9310003590107
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHALLES - rue L.Corbin",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.165103850262635,
+     47.9603425808149
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALLONNES - arr\u00eat Setram \"H\u00f4pital Specialis\u00e9\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.25058911158238,
+     47.9191112982991
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MULSANNE - Ecole Flora Tristan (Bd. E.Plet)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0334947838983328,
+     47.9567226889915
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOULIGNE FLACE - CADS",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.188026933847438,
+     48.0126718487562
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Cochereaux\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.225328482766177,
+     48.0734579134897
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NEUVILLE SUR SARTHE - RD 300 La Trugalle Park.Central",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.200898641808456,
+     48.0041946160371
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Ave de Gaulle arr\u00eat \"Les Cin\u00e9aste",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.395362226532037,
+     48.0712789914313
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONTFORT LE GESNOIS - Le Porc Salut",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0220863887699136,
+     47.9399983733606
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LOUPLANDE - Le Freux",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.745442418311383,
+     47.9187053434889
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST CALAIS - Coll\u00e8ge Jules Ferry",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0740806288533393,
+     48.0908274467756
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LAVARDIN - La Briqueterie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.480560031832412,
+     47.9227381036368
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST MARS DE LOCQUENAY - Vaudoire",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.262038381790045,
+     48.1147667446104
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOULIGNE SOUS BALLON - RD 209 - Les Bri\u00e8res Carrefour",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.246618595456879,
+     47.906033435207
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MULSANNE - Abribus Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.340568435691933,
+     47.9462311014896
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARIGNE L EVEQUE - RD 304 - Abribus Les Gu\u00e9mardi\u00e8res",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.313007518824103,
+     48.2525700998825
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MAROLLES LES BRAULTS - Biblioth\u00e8que",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.753092570749384,
+     47.8362411999288
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BESSE SUR BRAYE - RD 303 - Calvaire",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0887582861870933,
+     48.397427933813
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ARCONNAY - ZA Le Ch\u00eane (route du Mans)",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.207051950543784,
+     48.0876925364
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NEUVILLE SUR SARTHE - Hameau de Montreuil(N\u00b034,N\u00b025)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.467460849334486,
+     47.9324769434743
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VOLNAY - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0569689180786018,
+     47.7424013925656
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST JEAN DE LA MOTTE - Abribus place de la Cantine",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.408348374116314,
+     47.7013454213512
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHATEAU DU LOIR - Park.Coll\u00e8ge Berc\u00e9 - Lyc\u00e9e Racan",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.34268860675365,
+     47.8373822226292
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SABLE SUR SARTHE - Torcy (Cit\u00e9 Scolaire)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.217509953348757,
+     47.9812241909988
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Av J. Mac Arr\u00eat \" Pontlieue\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0496353207649231,
+     47.8865473330255
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FERCE SUR SARTHE - La Grande Pilli\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.20507201242848,
+     47.8944838825826
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONCE EN BELIN - Abribus rue Marcel Paul",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.1057152966385,
+     47.9936219683447
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PRUILLE LE CHETIF - Route de Fay",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.232291566560588,
+     47.9826635381441
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Californie  Park.Gymnase Bruy\u00e8res",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.275391267799119,
+     48.0776085795522
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SAVIGNE L EVEQUE - Le Ch\u00eane Vert",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0902876050748898,
+     48.3704315011265
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BETHON - Hameau de la Chesnaie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.120152101143021,
+     48.1503926213306
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST JEAN D ASSE - Place de l'Eglise Abribus TIS TSQ",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.539417268814581,
+     47.7912357714576
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COURDEMANCHE - RD 304 - Entr\u00e9e Brive (Ap.Pan.50)",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.202440089666037,
+     48.0153861753351
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Banjan\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.152334770589784,
+     47.9263873289007
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SPAY - Emmanuel Baert (rond-point)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.14176041269939,
+     47.9846595242464
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PRUILLE LE CHETIF - Arr\u00eat Setram \"St Joseph La Salle\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.25813834911272,
+     48.0472182415213
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SARGE LES LE MANS - RD 301 - l'Esp\u00e9rance (En Face)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.196804643981126,
+     47.9930826266843
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Lyc\u00e9e Marguerite Yourcenar",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.190485061908986,
+     47.75184018104
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PONTVALLAIN - Ecole Primaire",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.058558640013242,
+     47.8950661928151
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ROEZE SUR SARTHE - Abribus Jardin du Bois",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.341713819056044,
+     47.8417230338454
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SABLE SUR SARTHE - Gare SNCF",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.575426614119533,
+     47.7310210389455
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA CHARTRE SUR LE LOIR - Place du Coll\u00e8ge TSQ",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.040537415764127,
+     47.9436624156455
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LOUPLANDE - Abribus Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.321192107702448,
+     47.9903910010461
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - La Foucaudi\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.489640909638737,
+     48.2360273871157
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NOGENT LE BERNARD - St Jacques",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0913837049975191,
+     48.3498321032432
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "OISSEAU LE PETIT - Route d'Alen\u00e7on",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.180539373780041,
+     48.1445360147557
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONTBIZOT - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.211435893614177,
+     48.0007923625932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Ste-H\u00e9l\u00e8ne\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.369206714168865,
+     48.1233785369571
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TORCE EN VALLEE - La Petite Montabonni\u00e8re",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.295368982632762,
+     48.0745825734809
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SAVIGNE L EVEQUE - Morte Parence",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.417418674295346,
+     47.6937929787802
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHATEAU DU LOIR - Place de l'H\u00f4tel de Ville",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.522107669721922,
+     47.8061944771449
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST PIERRE DU LOROUER - Abribus Place",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.758138988506466,
+     47.9270436307121
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST CALAIS - Lyc\u00e9e Jean Rondeau",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.277976523538251,
+     48.0629370142829
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SAVIGNE L EVEQUE - La Butte de Mormont",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0438186738749396,
+     47.8037683034912
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COURCELLES LA FORET - RD 12 - Champ Fleuri (embt)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.512760621046523,
+     48.1145578346466
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TUFFE - Gare",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.249458945172436,
+     47.9135752922832
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MULSANNE - arr\u00eat Setram \"Pin\u00e8de\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.258117194643477,
+     48.0471804556243
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SARGE LES LE MANS - L'Esp\u00e9rance",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.20553712547026,
+     48.0121589578664
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Croix de Pierre\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.209313917532005,
+     47.9859083780807
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat Setram Saint Martin",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.182556866119561,
+     47.9998681679255
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat setram\"St Lazarre\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.792776306486835,
+     48.1031793038793
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONTMIRAIL - Abribus Bourg - Rue Saint Louis",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.266837411288233,
+     47.8902005600228
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TELOCHE - Place du Docteur Allain",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.204064595601866,
+     47.8935098738335
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONCE EN BELIN - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.230322111945588,
+     47.9825922585086
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Lyc\u00e9e Sud\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.210317837440754,
+     47.8330898069518
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST OUEN EN BELIN - Mairie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.332699635718802,
+     47.8707396942261
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST MARS D OUTILLE - Place Victor Hugo",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.342281618035606,
+     48.0555549294263
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FATINES - La Bodini\u00e8re",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.498022276140602,
+     47.9849131008956
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE BREIL SUR MERIZE - Pescheray",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.214017192591433,
+     47.982376038506
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat Setram Marne",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.120092458452938,
+     48.0659946747193
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "AIGNE - Abribus Centre Bourg",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.243745948804508,
+     47.8176781069712
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VION - RD 134 - Les Petites No\u00e9s",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.125283071663334,
+     47.8989080396681
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FILLE - Abribus Groupe Scolaire",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.272437116946478,
+     48.1226652035601
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COURCEBOEUFS - La Claie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.403555594542472,
+     48.048711977908
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONTFORT LE GESNOIS - Lib\u00e9ration Abribus",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.236559273903484,
+     48.1713140247709
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BALLON - Carrefour Saint Laurent",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.236754841744076,
+     48.1385237004733
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOULIGNE SOUS BALLON - RD 300 - Abribus Bourg",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0892021758513613,
+     48.4069217715475
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ARCONNAY - Centre Commercial",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.237693053550437,
+     48.1345942868575
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOULIGNE SOUS BALLON - La Croix Malingre VO - Abribus",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0686454425313168,
+     48.050280107364
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "DEGRE - Eglise Abribus TIS TSQ",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.352330813824893,
+     48.0902905027217
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST CORNEILLE - RD 145 - La Croix de Bratelet",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.147707468019087,
+     48.1154479233488
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA BAZOGE - Trois Couleurs TIS TSQ",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.491477799783484,
+     47.8191732654188
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST VINCENT DU LOROUER - R\u00e9sidence Les Aub\u00e9pines",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.518782048229001,
+     48.1119572598441
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TUFFE - Mairie (Abribus) TIS TSQ",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.187585136568495,
+     48.0384623208651
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST PAVACE - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.313963407262625,
+     48.079985666713
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SAVIGNE L EVEQUE - Montbergis",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.524777940153009,
+     48.0683816005763
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "DUNEAU - RD 323 Carrefour du Poisson d'Or",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.217205998677965,
+     48.0749369249405
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NEUVILLE SUR SARTHE - RD 197 - Carrefour La Ch\u00eanaie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.15519449487382,
+     48.0973540271857
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA BAZOGE - Avenue Nationale Abribus TSQ",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.179105613551274,
+     48.0161832598962
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - H\u00f4pital (rue de Degr\u00e9)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.194086757398374,
+     47.9969943392204
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat Setram Gastelier",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.184039879822369,
+     48.0077134400985
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat Setram Lazarre Weiller",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.178401920342123,
+     48.0127188327239
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Route de Laval - Setram H\u00f4pital",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.369208304675359,
+     48.3506972883976
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MAMERS - Place Carnot",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.022941081165643,
+     48.2815453502689
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FRESNAY SUR SARTHE - R\u00e9publique",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.495231210914074,
+     48.0584374774563
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CONNERRE - Place de la R\u00e9publique",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.166144630041404,
+     48.0508906347232
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST SATURNIN - Lyc\u00e9e des Horizons",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.619996162746893,
+     47.7518507820154
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "RUILLE SUR LOIR - Lyc\u00e9e Nazareth",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.218740023072193,
+     47.9970278755452
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"S\u00e9curit\u00e9 Sociale\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.205938843742591,
+     47.9913764474408
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Angle Rue de la Bertini\u00e8re",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.393772669644547,
+     48.1735966586698
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BRIOSNE LES SABLES - Beaufay (Route de)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.318105150504884,
+     48.012755022162
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHAMPAGNE - Le Petit Tambour",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.322208661542609,
+     48.0086320139087
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHAMPAGNE - Camp d'Auvours",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.102777322836435,
+     48.0606311703838
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "AIGNE - C 12 - La Jupini\u00e8re (hors RD 46)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.286569610349108,
+     48.0761153402799
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SAVIGNE L EVEQUE - Ch\u00e2teau d'Eau",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.193338792936308,
+     47.996505505667
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Gare SNCF",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.203133808743821,
+     47.995485256969
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Washington (Eglise)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0940483153047166,
+     47.8906131606954
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ROEZE SUR SARTHE - Les Creulais",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.350731622747206,
+     48.1073585310376
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SILLE LE PHILIPPE - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.405559293332886,
+     48.0409962695273
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONTFORT LE GESNOIS - Gare SNCF",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.537879221436224,
+     48.0398677540306
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "THORIGNE SUR DUE - Rue du 8 Mai",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.132515831046942,
+     47.746982907701
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MANSIGNE - Abribus Place de la Bascule",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.23387970436277,
+     48.1770110534159
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BALLON - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0168027969047176,
+     48.1230097063129
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CONLIE - H\u00f4tel de Ville",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.079817243376537,
+     48.3261820872501
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FYE - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.20217588236537,
+     47.9956048315057
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Washington (bas rue Nationale)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.152168595802432,
+     47.9246403354055
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SPAY - Place du 11 Novembre",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.238062706563104,
+     48.1112191727008
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "JOUE L ABBE - Les Quatres Routes",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.065115101458084,
+     47.9633866128381
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VALLON SUR GEE - Place de la Biche",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.392138945010791,
+     48.13329600147
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TORCE EN VALLEE - Dolmen",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0998992940796343,
+     47.7637903303938
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VILLAINES SOUS MALICORNE - Abribus Place Des Anciens combatt",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.27960579989113,
+     48.2895386462673
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COURGAINS - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.299505611911199,
+     48.19371050973
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MEZIERE SUR PONTHOUIN - Lib\u00e9ration",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0188820802251718,
+     47.8254666616053
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MEZERAY - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.153087319345306,
+     47.6470105663352
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE LUDE - Place du Mail",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.00501212105915909,
+     47.97330319673
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CRANNES EN CHAMPAGNE - La Croix des Six Chemins",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.271074465187298,
+     47.9842063823306
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - Courteboule",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.455504257561298,
+     48.0115506018882
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOULITRE - Ecole",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.4866294671129,
+     48.0731172851772
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BEILLE - Gare SNCF",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.217353884774363,
+     47.8773690783328
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST GERVAIS EN BELIN - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.286756310196042,
+     48.136686454054
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COURCEBOEUFS - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0301557447911008,
+     47.971865685263
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CRANNES EN CHAMPAGNE - MalVoisine",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.106143339528293,
+     48.0247431950431
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TRANGE - RD 245 - Abribus Rte La Bruy\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.234140088707039,
+     48.2021378132715
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CONGE SUR ORNE - La Route",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.174333542348106,
+     47.7997951981886
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "REQUEIL - Abribus Belle Croix",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.118578762653216,
+     47.7880094903764
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ARTHEZE - D 23 - Abribus Place de la Mairie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0104545475138001,
+     47.9730822203157
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CRANNES EN CHAMPAGNE - La Tuerie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.153398011962694,
+     47.9942174951876
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LOUE - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.129262312639009,
+     48.2275556102406
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BEAUMONT SUR SARTHE - Coll\u00e8ge Priv\u00e9 Ste Th\u00e9r\u00e8se",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.121474703436047,
+     48.2455755133037
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "JUILLE - Route d'Or",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.149492772807988,
+     47.7464261957088
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CROSMIERES - Abribus Place des Tilleuls",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0978265500458879,
+     47.8692404663665
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NOYEN SUR SARTHE - Place G. Guiet",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0468533658289984,
+     47.7978232672501
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COURCELLES LA FORET - RD 8 / RD 12 - Car.Quatre Routes",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.4282437708976,
+     47.999935121886
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ARDENAY SUR MERIZE - La Pelouse",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.384796450581837,
+     48.2965446083123
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST VINCENT DES PRES - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0980483390543659,
+     47.9717465294007
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST GEORGES DU BOIS - Abribus Accueil P\u00e9riscolaire",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0969020033886987,
+     47.9708044297465
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST GEORGES DU BOIS - All\u00e9e des Ecoles",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.291843806422609,
+     47.8982815443139
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TELOCHE - Posset",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0163325819112809,
+     47.7174850016371
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CLERMONT CREANS - RD 323 - Mairie Feux Pi\u00e9tons",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.734546451970755,
+     48.0601735750045
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VIBRAYE - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.585724060832105,
+     48.0407143776812
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "DOLLON - Place Charles de Gaulle",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.236663176575436,
+     47.7344638107061
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA CHAPELLE D ALIGNE - Abribus Ecole",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0609675647117615,
+     48.0226789499209
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHAUFOUR NOTRE DAME - RD 50 bis - Les Esnaudi\u00e8res",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0947198580493575,
+     48.1393880021691
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "STE SABINE SUR LONGEVE - Abribus Parking Cimeti\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0504946008520359,
+     48.2882671717023
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST OUEN DE MIMBRE - La Promenade TIS TSQ",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.161906353554219,
+     47.7851230304057
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "REQUEIL - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0769431698663457,
+     47.7035859893072
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LUCHE PRINGE - Place de la r\u00e9sistance",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.189779334894246,
+     47.9991125128699
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat Setram \"Edimbourg\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0483899057944051,
+     48.3343064012277
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FYE - La Sorie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.202174850834034,
+     47.8436770545366
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARCE SUR SARTHE - La Poste",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.238605901683248,
+     47.8185396342392
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VION - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.327496914444434,
+     47.8405304529392
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SABLE SUR SARTHE - La Poste",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0893608159912348,
+     48.3674970007508
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BETHON - Parking SONORVI",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0732918266309514,
+     47.9586851669715
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LOUPLANDE - RD 309 - La Jouanni\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.267633548832203,
+     48.056196794004
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SARGE LES LE MANS - Le Patis Froid",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0829656212089323,
+     47.7013239098873
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA FLECHE - Boulevard Gambetta TIS TSQ",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.301416812581476,
+     47.8734968296966
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST MARS D OUTILLE - Outill\u00e9",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.224473406809929,
+     48.0825446022727
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NEUVILLE SUR SARTHE - Le barrage-La Picotti\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.00866529480455798,
+     48.3226051007237
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ASSE LE BOISNE - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0389583474222414,
+     48.3224266011051
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST VICTEUR - Abribus Bourg TIS TSQ",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0483275339377773,
+     48.2931916017754
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST OUEN DE MIMBRE - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0960522682064882,
+     48.3005689303047
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST GERMAIN SUR SARTHE - La Hutte",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.1148645580579,
+     48.2593561787945
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PIACE - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.645223906360329,
+     48.0532572009594
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LAVARE - Ecole",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.175770165465462,
+     48.0417286901773
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST SATURNIN - arr\u00eat Antonniere \"Auchan\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.165915820333645,
+     48.1424564507437
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "STE JAMME SUR SARTHE - Maison de Retraite",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.133775330100695,
+     48.1497361333478
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST JEAN D ASSE - RD 38 - Abribus Restaurant",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0773008968986149,
+     48.4392798380398
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALENCON - Coll\u00e8ge Balzac (SEGPA)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.181943261579058,
+     48.1184430566447
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOUILLE - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.228345959846627,
+     48.1810839682885
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BALLON - RD 300 - La Rue d'Orne",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.658670756106718,
+     47.9448291727531
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONTAILLE - rd 357 - La Houssaye",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.237662170723985,
+     47.9993111342043
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "YVRE L EVEQUE - Bener",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0395621604247822,
+     47.9502251730651
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LOUPLANDE - RD 212 - Le Pin",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0962778397877349,
+     47.7363084460135
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VILLAINES SOUS MALICORNE - Le Grand Tess\u00e9",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.148600162226712,
+     47.9217002285808
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SPAY - Groupe Scolaire",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.199931391896213,
+     48.0027061415272
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat Setram \"Berthelot\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.111273509269208,
+     47.7480021550542
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MANSIGNE - RD 157 - La Cochasi\u00e8re (embt)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.15979398350945,
+     47.9697421598613
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALLONNES - Arr\u00eat Setram \"Despr\u00e8s\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.186595703119687,
+     47.9955233986809
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"Novaxis\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.192263677907984,
+     48.0018647970863
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - EPERON (SETRAM)",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.370872272442793,
+     48.3425177506549
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST REMY DES MONTS - Le Magasin",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.223100002721237,
+     48.019362290129
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat Setram \"Edimbourg\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.241706564378246,
+     47.984473767233
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - arr\u00eat Setram \"MMA\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.00593731266350166,
+     47.9306709530813
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHEMIRE LE GAUDIN - RD 309 - l'Etang",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0952496035781483,
+     47.706884343855
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA FLECHE - La Jal\u00eatre",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.585129207580418,
+     48.1437668011562
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST MARTIN DES MONTS - RD 97 - Les Chalumeaux",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0899324178434938,
+     48.4233077370462
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALENCON - Monsort",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.562283906281714,
+     47.8152988346453
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COURDEMANCHE - Place J. De la Mothe",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.477611186898644,
+     47.918589576069
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST MARS DE LOCQUENAY - Touche Guillaume",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.476427048359382,
+     47.9311543031947
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VOLNAY - Coop\u00e9rative Agricole",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.445402984476668,
+     47.9290236676092
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHALLES - Les Villenettes",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.439077123300016,
+     47.9299369783867
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHALLES - Le Perray",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.365939294135051,
+     47.9378280078668
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARIGNE L EVEQUE - Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0311645950662041,
+     47.9025361912678
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FERCE SUR SARTHE - Route de Maign\u00e9",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0955383352004485,
+     47.8741963167266
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NOYEN SUR SARTHE - Pont et gare SNCF (route du Mans)",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.157076924767017,
+     47.9975389684511
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LOUE - Calvaire",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.156804651480648,
+     47.8270127109838
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARCE SUR SARTHE - Les Besneries",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.302981816497151,
+     47.9593388613654
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - RD 304 - Abribus La Poire Tap\u00e9e",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.306424564417253,
+     47.9581681395666
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - Rouillon",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.293741494336099,
+     47.9619258705872
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - La Mare Moreau",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.293427433143886,
+     47.9620035854061
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - La Hatti\u00e8re",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.132499958229602,
+     47.8220109610333
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "DUREIL - Grangevaux (RD8)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.109325668750675,
+     47.8028902889455
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MALICORNE SUR SARTHE - Croix du Ch\u00e2let",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.110277315327005,
+     47.7797797654209
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ARTHEZE - La Pinardi\u00e8re",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.16453774089453,
+     47.7680056023707
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE BAILLEUL - Salle Polyvalente",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.182968838281108,
+     47.8250148946645
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "YVRE LE POLIN - L'Esp\u00e9rance",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.122266922570872,
+     47.7341569187886
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CROSMIERES - La Gaumerie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.271504860202745,
+     47.8889225164148
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TELOCHE - Centre de Secours",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.340817448629175,
+     47.8843350158443
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST MARS D OUTILLE - Les Reprises",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.309948379551014,
+     47.9032171931374
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BRETTE LES PINS - RD 144 - La Maugerie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.336812781447827,
+     47.9119908983787
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BRETTE LES PINS - Rue des Glycines",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.194679990031984,
+     47.8937580690693
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MONCE EN BELIN - Abribus Ponthibault",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.338891336810966,
+     47.9812249573846
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - RD 145 Commerreries (Bas Champs)",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.333055139840184,
+     47.985852701191
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - Les Brosses",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.287247626762611,
+     47.9906386174894
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - E.R.E.A.",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.25771807474369,
+     47.9831081484146
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - Le Tertre",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.299524919005202,
+     47.9824745070058
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - La H\u00e9raudi\u00e8re",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.431440166788001,
+     47.8368878692447
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PRUILLE L EGUILLE - Abribus Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0276961658571455,
+     47.8895833133584
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA SUZE SUR SARTHE - Eglise",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.192870251941215,
+     47.7054882594354
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COULONGE - Les Maisons Rouges",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.318499304003675,
+     47.9540415270805
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARIGNE L EVEQUE - RD 304 Le Gu\u00e9 Trouve",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.329076759532732,
+     47.9502332548407
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARIGNE L EVEQUE - RD 304- Le Liard",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.234860512656298,
+     48.1489182303609
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOULIGNE SOUS BALLON - RD 300 / VO - Car La Clairgerie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0870201556871516,
+     47.7057129277391
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA FLECHE - Centre de Secours",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.233517305326226,
+     47.9830813374472
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat Setram \"CFA\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.185365002495266,
+     47.928241450287
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ARNAGE - Avenue Nationale (Arr\u00eat Beuruay)",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0410460914246741,
+     47.8927841210618
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA SUZE SUR SARTHE - Pape Carpentier (C. Cial)",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.103187906579073,
+     47.8905391010963
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FILLE - RD 51 L'Etoile (embt)",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.155473000802317,
+     47.6438071849696
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE LUDE - Champ de Foire",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0797300006293643,
+     47.6978905897076
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA FLECHE - Le Loir",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0893992059108247,
+     47.7002478347825
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA FLECHE - Rhin et Danube",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.104493159602574,
+     47.720713302865
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA FLECHE - Verron Eglise",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.251309158449046,
+     47.7330287201899
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA CHAPELLE D ALIGNE - Le Peladier",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.217212537956963,
+     47.7790595245037
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE BAILLEUL - Ouest Park",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.265186588400587,
+     47.7870107541359
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LOUAILLES - Les Champs",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.253378498276976,
+     47.7929660706874
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LOUAILLES - Ecole",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.314530026144419,
+     47.8423173795807
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SABLE SUR SARTHE - La Martini\u00e8re (ZA)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.303522053410662,
+     47.8368151114884
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SABLE SUR SARTHE - C.Commercial La Tuilerie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.238211219553904,
+     47.8213078187966
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST BIEZ EN BELIN - Mairie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.269697293702833,
+     47.8249146221301
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ECOMMOY - Gare SNCF (rue Boullard)",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.323422587304052,
+     47.8708964825487
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST MARS D OUTILLE - Tilleuls (carrefour)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.272018510484037,
+     48.0288448555901
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST DENIS D ORQUES - Lib\u00e9ration",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0269518861364547,
+     48.0149689219282
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BRAINS SUR GEE - Mairie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.51005904287787,
+     48.1179816452875
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "TUFFE - Plan d'Eau",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.340470511488361,
+     48.0073614001351
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHAMPAGNE - St Hubert",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.628553249631727,
+     47.9933579442423
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COUDRECIEUX - Ancienne gare",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.470473083185254,
+     47.9907467688341
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE BREIL SUR MERIZE - Le Poteau Rouge",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.541055336819357,
+     47.9757862571605
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BOULOIRE - La Butte",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.553439225326474,
+     47.9731122472312
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BOULOIRE - Antiquaire",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.741429549789391,
+     47.9235258388184
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST CALAIS - Route du Mans",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.742528202775985,
+     47.9209071189592
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST CALAIS - Palais de justice",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.745101748193604,
+     47.9122005854778
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST CALAIS - Gendarmerie",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.745923271480357,
+     47.8332340160591
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "BESSE SUR BRAYE - Cimeti\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.2082091748869,
+     47.772688032941
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE BAILLEUL - H\u00f4pital",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.321775763293711,
+     47.8383808834312
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SABLE SUR SARTHE - Maison de retraite",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.170859086103342,
+     47.8287789971348
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARCE SUR SARTHE - Le Valbray",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.20232652184671,
+     47.840532025914
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARCE SUR SARTHE - Rue du Vivier (n\u00b024)",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.178327036440444,
+     47.984931003081
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LE MANS - Arr\u00eat Setram \"Angevini\u00e8re\"",
+    "network": "TIS"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0318172499228034,
+     47.9005911503151
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FERCE SUR SARTHE - Les Avelines",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.468485172939262,
+     47.9327072764412
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VOLNAY - Place de l'Eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0796852285476076,
+     48.0220124154276
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LONGNES - Chatelet (rue du)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.130487005441455,
+     48.2204194011771
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "MARESCHE - La Croix Verte",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0979899940382514,
+     47.74010490118
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VILLAINES SOUS MALICORNE - La Janverie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.176877120382169,
+     47.7995305462143
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHATEAU L HERMITAGE - Belle Croix (Rte de St Biez)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0933826060008117,
+     48.4276185020283
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ALENCON - Rue Piquet",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.341664292848065,
+     47.8428137008908
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SABLE SUR SARTHE - Gare Routi\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.23448424075624,
+     47.7445270107054
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA CHAPELLE D ALIGNE - VO - La Croix de la Grange",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.281536454114152,
+     47.8105611543402
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "VION - Les No\u00e9s Poterie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.065359372311396,
+     47.7024043636815
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA FLECHE - Maison de retraite",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.313559988037386,
+     47.8307804351976
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SABLE SUR SARTHE - CC Route de la Fl\u00e8che",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.457967019565524,
+     48.1077394666847
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA CHAPELLE ST REMY - Pl. du Centre Abribus TIS eglise",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.326104805138532,
+     48.0781172006941
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ST CORNEILLE - RD 20 \"La Houssaye\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.313129005718319,
+     47.9559522020452
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "PARIGNE L EVEQUE - PA La Boussardi\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.307776663991822,
+     47.8269536184951
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SABLE SUR SARTHE - ZA St Laurent",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.345142725789582,
+     48.0453446913015
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "FATINES - RD 91 -  Parking La Baronni\u00e8re",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.42421651154449,
+     47.9958799053764
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ARDENAY SUR MERIZE - Freteaux",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.576110300960142,
+     47.733107380657
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "LA CHARTRE SUR LE LOIR - Centre de secours",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.274586407532512,
+     47.9798930005781
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CHANGE - ZA Le Grand Pin",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.489462006811659,
+     48.0632124023054
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "CONNERRE - Camping",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.366853506515217,
+     48.1167885012139
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SILLE LE PHILIPPE - La Maison Neuve",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.279719406905654,
+     48.1297114009831
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "COURCEBOEUFS - La Triquetterie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.232120506895683,
+     48.1556455004306
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOULIGNE SOUS BALLON - RD 300 - Vlleneuve",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.232649528542136,
+     48.1525419138065
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "SOULIGNE SOUS BALLON - RD 300 - Le Fourneau",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.258710449768138,
+     48.2475481039122
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "DANGEUL - Saosnois (rue du)",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.0868702251912963,
+     48.1931685761862
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ASSE LE RIBOUL - Mairie",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0899682297276939,
+     47.81778119468
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "NOYEN SUR SARTHE - Coll\u00e8ge Marcel Pagnol",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.276236992398081,
+     47.8298132482198
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "ECOMMOY - Abribus \"Providence\"",
+    "network": "TIS,TSQ"
+   },
+   "type": "Feature"
+  }
+ ]
+}
